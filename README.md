@@ -67,3 +67,5 @@ This project builds a machine learning model to recommend suitable crops based o
 ## Conclusion
 
 This project successfully developed a crop recommendation system. The model can assist farmers in making informed decisions. Further work could include more data, model tuning, and deployment.
+
+© 2025 Naren Jamdar. All rights reserved.
